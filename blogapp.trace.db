@@ -1,0 +1,6 @@
+2023-11-23 17:23:56 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "INFORMATION_SCHEMA" not found; SQL statement:
+select * from information_schema [42102-214]
+2023-11-23 17:24:02 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "INFORMATION_SCHEMA" not found; SQL statement:
+select * from information_schema [42102-214]
